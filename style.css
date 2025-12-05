@@ -57,7 +57,7 @@ html{
 }
 /* SECTION HOME */
 .home{
-    background-image: url(/img/pexels-photo-29279566.webp);
+    background-image: url(./img/pexels-photo-29279566.webp);
     background-size: 50%;
     background-repeat: no-repeat;
     background-size: cover;
